@@ -4,8 +4,8 @@ import random
 import threading
 import subprocess
 
-TOKEN = "YOUR_BOT_TOKEN"  # Replace with your bot token
-ADMIN_ID = 272628273  # Your admin ID
+TOKEN = "7016761223:AAE5_kEwQK-R2l-sjXA8G2Y6vP-rWo-DH1k"  # Replace with your bot token
+ADMIN_ID = 5668432581  # Your admin ID
 bot = telebot.TeleBot(TOKEN)
 
 users_energy = {}  # Stores user energy
